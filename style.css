@@ -1,0 +1,99 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #333;
+    color: #fff;
+    padding: 20px;
+}
+
+nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+nav li {
+    display: inline-block;
+    margin-right: 20px;
+}
+
+nav a {
+    color: #fff;
+    text-decoration: none;
+}
+
+main {
+    padding: 20px;
+}
+
+section {
+    margin-bottom: 20px;
+}
+
+footer {
+    text-align: center;
+    padding: 10px;
+    background-color: #333;
+    color: #fff;
+}
+#base{
+    height: 500px;
+    width: 1470px;
+    padding: 20px;
+}
+#bs{
+    height: 400px;
+    width: 800px;
+}
+h2{
+    padding-left: 50px;
+}
+#a{
+    padding-left: 100px;
+}
+#name{
+    height: 30px;
+    width: 300px;
+    border-bottom: 2px solid white;
+    border-top: transparent;
+    border-left: transparent;
+    border-right: transparent;
+    background-color: black;
+    color: aliceblue;
+}
+#email{
+    height: 30px;
+    width: 300px;
+    border-bottom: 2px solid white;
+    border-top: transparent;
+    border-left: transparent;
+    border-right: transparent;
+    background-color: black;
+    color: aliceblue;
+
+}
+#msg{
+    height: 200px;
+    width: 300px;
+    border-bottom: 2px solid white;
+    border-top: transparent;
+    border-left: transparent;
+    border-right: transparent;
+    background-color: black;
+    color: aliceblue;
+}
+#cnt{
+    height: 430px;
+    width: 1500px;
+    background-color: black;
+    color: #fff;
+    font-size: 10px;
+}
+button{
+    height: 45px;
+    width: 100px;
+}
